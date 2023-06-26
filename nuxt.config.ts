@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
-import { aliases, mdi } from 'vuetify/iconsets/mdi'
+// import { aliases, mdi } from 'vuetify/iconsets/mdi'
 
 const softagon = {
   dark: false,
@@ -39,10 +39,10 @@ export default defineNuxtConfig({
       },
       icons: {
         defaultSet: 'mdi',
-        aliases,
-        sets: {
-          mdi,
-        },
+        // aliases,
+        // sets: {
+        //   mdi,
+        // },
       },
     },
     moduleOptions: {
