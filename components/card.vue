@@ -1,7 +1,7 @@
 <template>
   <div>
     <v-card
-    class="mx-auto"
+    class="mx-auto bg-primary"
     width="400"
     prepend-icon="mdi-home"
   >
@@ -16,7 +16,7 @@
   </div>
   <div class="mt-5">
     <v-card
-    class="mx-auto"
+    class="mx-auto bg-pink"
     max-width="344"
     variant="outlined"
   >
