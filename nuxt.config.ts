@@ -1,6 +1,6 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
 
-import { aliases, mdi } from 'vuetify/iconsets/mdi'
+
 
 const softagon = {
   dark: false,
