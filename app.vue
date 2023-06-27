@@ -1,6 +1,5 @@
 <template>
   <div>
-    <v-btn color="primary">cancelar</v-btn>
-    <NuxtWelcome />
+   <FormSatisfacao/>
   </div>
 </template>
