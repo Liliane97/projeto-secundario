@@ -39,10 +39,7 @@ export default defineNuxtConfig({
       },
       icons: {
         defaultSet: 'mdi',
-        aliases,
-        sets: {
-          mdi,
-        },
+       
       },
     },
     moduleOptions: {
