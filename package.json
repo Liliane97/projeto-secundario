@@ -9,14 +9,12 @@
     "postinstall": "nuxt prepare"
   },
   "devDependencies": {
-    "@mdi/font": "^7.2.96",
     "@nuxt/devtools": "latest",
     "@types/node": "^18",
-    "nuxt": "^3.5.2",
-    "@invictus.codes/nuxt-vuetify": "^0.2.20",
-    "sass": "^1.62.1",
-    "vue": "3.3.4",
-    "vuetify": "3.3.1"
-  
+    "nuxt": "^3.6.2"
+  },
+  "dependencies": {
+    "@invictus.codes/nuxt-vuetify": "^0.2.23",
+    "sass": "^1.63.6"
   }
 }
